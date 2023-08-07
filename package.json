@@ -1,0 +1,20 @@
+{
+  "name": "ts_atm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "Isfhan Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
